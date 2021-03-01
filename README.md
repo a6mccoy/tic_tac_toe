@@ -1,2 +1,2 @@
 # tic_tac_toe
-A set of problems I solved while learning Python
+Builds a game of tic tac toe in which the user plays against an ubeatable AI
